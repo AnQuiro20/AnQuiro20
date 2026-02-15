@@ -1,144 +1,144 @@
-# Andrés Quirós Rojas  
-### Estudiante de Ingeniería en Computación | Desarrollo de Software | IA y Sistemas  
+<h1 align="center">Andrés Quirós Rojas</h1>
 
-🇨🇷 San Carlos, Costa Rica  
-🎓 Instituto Tecnológico de Costa Rica (2023–2027)  
+<h3 align="center">
+  Computer Engineering Student · Software Development · Compilers · AI & Systems
+</h3>
 
-🌐 [Portafolio Web](https://anquiro20.github.io/Mi_portafolio/) |  
-🔗 [LinkedIn](https://www.linkedin.com/in/andres-quirós-b769a0366) |  
-🐙 [GitHub](https://github.com/AnQuiro20)
+<p align="center">
+  🇨🇷 Costa Rica | Instituto Tecnológico de Costa Rica (2023–2027)
+</p>
 
----
-
-## 👨‍💻 Perfil Profesional
-
-Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica con enfoque en desarrollo de software, análisis de datos e inteligencia artificial.
-
-Cuento con una base sólida en programación, estructuras de datos, algoritmos y diseño de software, complementada con experiencia académica aplicada en desarrollo web, APIs REST y modelos de Deep Learning.
-
-Me caracterizo por un enfoque analítico, aprendizaje continuo y capacidad para trabajar en equipos multidisciplinarios. Interesado en oportunidades de práctica profesional o puestos junior donde pueda aportar valor mientras continúo desarrollándome como ingeniero.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-### 💻 Lenguajes de Programación
-Python • Java • C++ • JavaScript • C#
-
-### 🌐 Desarrollo Web y Backend
-APIs REST • Git/GitHub • HTML • Firebase • Supabase
-
-### 🤖 Inteligencia Artificial y Datos
-Deep Learning • Redes Neuronales Convolucionales (CNN) • Procesamiento de Imágenes • Análisis de Datos
-
-### 🧰 Herramientas
-Streamlit • Pandas • Plotly • TensorFlow • ANTLR4 • .NET
+<p align="center">
+  <a href="https://anquiro20.github.io/Mi_portafolio/">
+    <img src="https://img.shields.io/badge/🌐_Portafolio-000?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/andres-quirós-b769a0366">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AnQuiro20">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📌 Proyectos Personales Destacados
+## 👨‍💻 About Me
 
-### 🐒 MonkeyCompiler – Compilador Educativo  
-**C# (.NET 8), ANTLR4, Máquina Virtual Propia, Python (Tkinter)**  
-Curso: Compiladores e Intérpretes – TEC (II Semestre 2025)
+Computer Engineering student at the Technological Institute of Costa Rica with strong foundations in:
 
-Compilador completo para el lenguaje educativo Monkey, implementando:
+- Data Structures & Algorithms  
+- Software Design  
+- Compiler Construction  
+- Backend Development  
+- Artificial Intelligence  
 
-- Análisis léxico y sintáctico con ANTLR4  
-- Construcción de AST mediante Visitor Pattern  
-- Análisis semántico con tabla de símbolos jerárquica  
-- Generación de código intermedio (IR) tipo stack machine  
-- Máquina virtual propia para ejecución  
-- Backend alternativo mediante generación dinámica de CIL  
-- Interfaz gráfica desarrollada en Python (Tkinter)
+I focus on building technically solid systems with modular architecture and strong theoretical foundations.
 
-✔ Proyecto finalizado y funcional  
-✔ Arquitectura modular  
-✔ Enfoque en fundamentos de compiladores y diseño de lenguajes  
+Currently seeking internship or junior-level opportunities in backend, systems, or AI-related roles.
 
 ---
 
-### ⏳ Time is Money – Conversión de Gastos a Tiempo de Trabajo  
-**HTML5, CSS3, JavaScript (ES6+), Canvas API, LocalStorage**
+## ⚙️ Technical Stack
 
-Aplicación web que convierte gastos monetarios en tiempo de trabajo según tarifa horaria.
+<p align="center">
 
-- Conversión dinámica Dinero ↔ Tiempo (considerando impuestos)  
-- Metas mensuales personalizables  
-- Visualización gráfica con Canvas API  
-- Persistencia local mediante LocalStorage  
-- Exportación e importación de datos en JSON  
-- Diseño responsivo (móvil y escritorio)  
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,dotnet,git,html,css,firebase"/>
 
-🔗 Demo: https://anquiro20.github.io/El-tiempo-es-dinero-Prototipo/
+</p>
 
----
+**Technologies & Concepts**
 
-### 📊 Dashboard de Compras Online  
-**Python, Streamlit, Pandas, Plotly**
-
-- Procesamiento y análisis de datos  
-- Visualización interactiva  
-- Generación automática de insights  
+- REST APIs  
+- ANTLR4  
+- Deep Learning & CNN  
+- Data Analysis (Pandas, Plotly)  
+- Streamlit  
+- Supabase  
+- Modular Architecture  
 
 ---
 
-### 🐄 GanadoPro – Sistema de Gestión Ganadera  
-**JavaScript, HTML, CSS, Supabase**
+## 🧠 Featured Technical Projects
 
-- Registro y consulta de datos  
-- Estadísticas dinámicas  
-- Persistencia en base de datos en la nube  
-- Arquitectura modular  
+### 🐒 MonkeyCompiler  
+**C# · .NET 8 · ANTLR4 · Virtual Machine · CIL Backend**
 
-🔗 Demo: https://anquiro20.github.io/FincaQR/
+Full educational compiler implementation:
 
----
+- Lexical & syntactic analysis  
+- AST using Visitor Pattern  
+- Semantic analysis with symbol table  
+- Stack-based IR generation  
+- Custom virtual machine  
+- Alternative CIL backend  
+- GUI with Python (Tkinter)  
 
-## 🎓 Formación Técnica Aplicada
-
-### Procesamiento de Imágenes Médicas con Deep Learning
-- Implementación académica de modelos CNN para clasificación  
-- Preprocesamiento y evaluación de modelos  
-
-### Fundamentos de Servicios Web – Mini Red Social
-- Diseño e implementación académica de API REST  
-- Endpoints GET, POST, PUT, DELETE  
-- Aplicación de buenas prácticas backend y control de versiones con Git  
+Strong academic project focused on compiler theory and system architecture.
 
 ---
 
-## 🌍 Experiencia Complementaria
+### ⏳ Time is Money  
+**HTML5 · CSS3 · JavaScript · Canvas API · LocalStorage**
 
-### Voluntario Internacional – FISU (2024)
-- Coordinación de eventos deportivos universitarios internacionales  
-- Trabajo en equipo multicultural bajo plazos ajustados  
-- Desarrollo de habilidades de comunicación y organización  
+Web application that converts expenses into work-time equivalents.
 
----
+- Money ↔ Time conversion  
+- Goal tracking  
+- Interactive charts  
+- Data persistence  
+- Responsive design  
 
-## 🏆 Competencias Clave
-
-Desarrollo de Software • Desarrollo Backend • APIs RESTful •  
-Análisis de Datos • Deep Learning • Programación Orientada a Objetos •  
-Estructuras de Datos y Algoritmos • Bases de Datos • Control de Versiones (Git)
-
----
-
-## 🌎 Idiomas
-
-Español – Nativo  
-Inglés – A2/B1 (lectura técnica y comunicación básica)
+🔗 Demo:  
+https://anquiro20.github.io/El-tiempo-es-dinero-Prototipo/
 
 ---
 
-## 📫 Contacto
+### 📊 Online Shopping Dashboard  
+**Python · Streamlit · Pandas · Plotly**
 
-🌐 Portafolio: https://anquiro20.github.io/Mi_portafolio/  
-📧 Correo: quirosandres230@gmail.com  
+- Data processing  
+- Interactive visualization  
+- Automatic insights  
+
+---
+
+### 🐄 GanadoPro  
+**JavaScript · HTML · CSS · Supabase**
+
+- Data management system  
+- Dynamic statistics  
+- Cloud persistence  
+- Modular design  
+
+🔗 Demo:  
+https://anquiro20.github.io/FincaQR/
+
+---
+
+## 🎓 Academic Background
+
+- Computer Engineering – TEC (2023–2027)  
+- Medical Image Processing with Deep Learning  
+- Web Services & REST APIs  
+- Participant – COMPDES 2025  
+
+---
+
+## 🌎 Languages
+
+Spanish – Native  
+English – A2/B1 (technical reading & basic communication)
+
+---
+
+## 📬 Contact
+
+📧 quirosandres230@gmail.com  
+🌐 Portfolio: https://anquiro20.github.io/Mi_portafolio/  
 🔗 LinkedIn: https://www.linkedin.com/in/andres-quirós-b769a0366  
-🐙 GitHub: https://github.com/AnQuiro20  
 
 ---
 
-Abierto a oportunidades de práctica profesional y puestos junior en desarrollo de software, backend o áreas relacionadas con inteligencia artificial y análisis de datos.
+<p align="center">
+  <strong>Focused on building robust systems with strong engineering foundations.</strong>
+</p>
