@@ -6,6 +6,13 @@
   🎓 Instituto Tecnológico de Costa Rica (2023–2027)
 </p>
 
+<p align="center">
+  🌐 <a href="https://anquiro20.github.io/Mi_portafolio/" target="_blank"><strong>Portafolio Web</strong></a> |
+  🔗 <a href="https://www.linkedin.com/in/andres-quirós-b769a0366" target="_blank"><strong>LinkedIn</strong></a> |
+  🐙 <a href="https://github.com/AnQuiro20" target="_blank"><strong>GitHub</strong></a>
+</p>
+
+
 ---
 
 ## 👨‍💻 PERFIL PROFESIONAL
@@ -34,28 +41,71 @@ Streamlit • Pandas • Plotly • TensorFlow
 
 ---
 
-## 📌 PROYECTOS PERSONALES
+## 📌 PROYECTOS PERSONALES DESTACADOS
+
+### 🐒 MonkeyCompiler – Compilador Educativo
+**C# (.NET 8), ANTLR4, Máquina Virtual Propia, Python (Tkinter)**  
+Curso: Compiladores e Intérpretes – TEC (II Semestre 2025)
+
+Compilador completo para el lenguaje educativo Monkey, implementando todas las fases fundamentales:
+
+- Análisis léxico y sintáctico con ANTLR4
+- Construcción de AST mediante Visitor Pattern
+- Análisis semántico con tabla de símbolos jerárquica
+- Generación de código intermedio (IR) tipo stack machine
+- Máquina virtual propia para ejecución
+- Backend alternativo mediante generación dinámica de CIL
+- Interfaz gráfica desarrollada en Python (Tkinter)
+
+Incluye validaciones semánticas detalladas (errores con línea y columna), soporte para funciones, estructuras de control y múltiples tipos de datos.
+
+✔ Proyecto finalizado y funcional  
+✔ Arquitectura modular  
+✔ Enfoque en fundamentos de compiladores y diseño de lenguajes  
+
+---
+
+### ⏳ Time is Money – Conversión de Gastos a Tiempo de Trabajo  
+**HTML5, CSS3, JavaScript (ES6+), Canvas API, LocalStorage**
+
+Aplicación web que convierte gastos monetarios en tiempo de trabajo según tarifa horaria.
+
+- Conversión dinámica Dinero ↔ Tiempo (considerando impuestos)
+- Metas mensuales personalizables
+- Visualización gráfica con Canvas API
+- Persistencia local mediante LocalStorage
+- Exportación e importación de datos en JSON
+- Diseño responsivo (móvil y escritorio)
+
+🔗 Demo: https://anquiro20.github.io/El-tiempo-es-dinero-Prototipo/
+
+Enfoque en lógica de negocio, estructura modular y experiencia de usuario.
+
+---
 
 ### 📊 Dashboard de Compras Online  
 **Python, Streamlit, Pandas, Plotly**
 
-Aplicación web para análisis y visualización de hábitos de compra:
+Aplicación web para análisis de hábitos de compra:
 
-- Métricas dinámicas y gráficos interactivos.
-- Procesamiento y análisis de datos.
-- Generación automática de insights sobre patrones de consumo.
+- Procesamiento y análisis de datos
+- Visualización interactiva
+- Generación automática de insights
 
 ---
 
 ### 🐄 GanadoPro – Sistema de Gestión Ganadera  
 **JavaScript, HTML, CSS, Supabase**
 
-Aplicación web para administración de ganado:
+Sistema web para administración de ganado:
 
-- Registro, consulta y generación de estadísticas.
-- Interfaz dinámica con lógica modular.
-- Persistencia de datos en la nube.
-- Demo: https://anquiro20.github.io/FincaQR/
+- Registro y consulta de datos
+- Estadísticas dinámicas
+- Persistencia en base de datos en la nube
+- Arquitectura modular
+
+🔗 Demo: https://anquiro20.github.io/FincaQR/
+
 
 ---
 
