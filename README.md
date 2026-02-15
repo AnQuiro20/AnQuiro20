@@ -1,74 +1,75 @@
 # Andrés Quirós Rojas  
-### Estudiante de Ingeniería en Computación | Desarrollo de Software | IA y Sistemas  
+### Computer Engineering Student | Software Development | Compilers | AI & Systems  
 
 🇨🇷 San Carlos, Costa Rica  
 🎓 Instituto Tecnológico de Costa Rica (2023–2027)  
 
-🌐 [Portafolio Web](https://anquiro20.github.io/Mi_portafolio/) |  
-🔗 [LinkedIn](https://www.linkedin.com/in/andres-quirós-b769a0366) |  
+🌐 [Portafolio Web](https://anquiro20.github.io/Mi_portafolio/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/andres-quirós-b769a0366)  
 🐙 [GitHub](https://github.com/AnQuiro20)
 
 ---
 
 ## 👨‍💻 Perfil Profesional
 
-Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica con enfoque en desarrollo de software, análisis de datos e inteligencia artificial.
+Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica con una base sólida en estructuras de datos, algoritmos, diseño de software y arquitectura de sistemas.
 
-Cuento con una base sólida en programación, estructuras de datos, algoritmos y diseño de software, complementada con experiencia académica aplicada en desarrollo web, APIs REST y modelos de Deep Learning.
+He desarrollado proyectos académicos y personales que abarcan compiladores, desarrollo web, análisis de datos y modelos de Deep Learning, aplicando principios de ingeniería, diseño modular y buenas prácticas de desarrollo.
 
-Me caracterizo por un enfoque analítico, aprendizaje continuo y capacidad para trabajar en equipos multidisciplinarios. Interesado en oportunidades de práctica profesional o puestos junior donde pueda aportar valor mientras continúo desarrollándome como ingeniero.
+Me interesa especialmente la construcción de sistemas robustos, la arquitectura backend y el diseño de herramientas que integren fundamentos teóricos con aplicaciones prácticas.
+
+Actualmente busco oportunidades de práctica profesional o posiciones junior donde pueda contribuir técnicamente y continuar fortaleciendo mis habilidades en entornos reales.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Stack Técnico
 
-### 💻 Lenguajes de Programación
+### Lenguajes
 Python • Java • C++ • JavaScript • C#
 
-### 🌐 Desarrollo Web y Backend
-APIs REST • Git/GitHub • HTML • Firebase • Supabase
+### Backend & Sistemas
+APIs REST • .NET • ANTLR4 • Diseño modular • Control de versiones (Git)
 
-### 🤖 Inteligencia Artificial y Datos
-Deep Learning • Redes Neuronales Convolucionales (CNN) • Procesamiento de Imágenes • Análisis de Datos
+### IA y Datos
+Deep Learning • CNN • Procesamiento de Imágenes • Análisis de Datos
 
-### 🧰 Herramientas
-Streamlit • Pandas • Plotly • TensorFlow • ANTLR4 • .NET
+### Web
+HTML • CSS • Firebase • Supabase • Streamlit
 
 ---
 
-## 📌 Proyectos Personales Destacados
+## 📌 Proyectos Técnicos Destacados
 
-### 🐒 MonkeyCompiler – Compilador Educativo  
-**C# (.NET 8), ANTLR4, Máquina Virtual Propia, Python (Tkinter)**  
+### 🐒 MonkeyCompiler – Compilador Educativo Completo  
+**C# (.NET 8), ANTLR4, Máquina Virtual Propia, CIL, Python (Tkinter)**  
 Curso: Compiladores e Intérpretes – TEC (II Semestre 2025)
 
-Compilador completo para el lenguaje educativo Monkey, implementando:
+Implementación completa de un compilador con arquitectura modular:
 
 - Análisis léxico y sintáctico con ANTLR4  
-- Construcción de AST mediante Visitor Pattern  
+- Construcción de AST con Visitor Pattern  
 - Análisis semántico con tabla de símbolos jerárquica  
 - Generación de código intermedio (IR) tipo stack machine  
-- Máquina virtual propia para ejecución  
-- Backend alternativo mediante generación dinámica de CIL  
-- Interfaz gráfica desarrollada en Python (Tkinter)
+- Máquina virtual personalizada para ejecución  
+- Backend alternativo con generación dinámica de CIL  
+- Interfaz gráfica en Python para compilación y ejecución  
 
 ✔ Proyecto finalizado y funcional  
-✔ Arquitectura modular  
-✔ Enfoque en fundamentos de compiladores y diseño de lenguajes  
+✔ Validaciones semánticas con reporte de errores detallado  
+✔ Enfoque en fundamentos formales de compiladores  
 
 ---
 
-### ⏳ Time is Money – Conversión de Gastos a Tiempo de Trabajo  
+### ⏳ Time is Money – Aplicación Web de Productividad Financiera  
 **HTML5, CSS3, JavaScript (ES6+), Canvas API, LocalStorage**
 
-Aplicación web que convierte gastos monetarios en tiempo de trabajo según tarifa horaria.
+Aplicación que convierte gastos monetarios en tiempo de trabajo basado en tarifa horaria.
 
-- Conversión dinámica Dinero ↔ Tiempo (considerando impuestos)  
-- Metas mensuales personalizables  
-- Visualización gráfica con Canvas API  
-- Persistencia local mediante LocalStorage  
-- Exportación e importación de datos en JSON  
-- Diseño responsivo (móvil y escritorio)  
+- Conversión automática Dinero ↔ Tiempo  
+- Visualización gráfica mediante Canvas API  
+- Persistencia de datos en navegador  
+- Exportación e importación en formato JSON  
+- Diseño responsivo  
 
 🔗 Demo: https://anquiro20.github.io/El-tiempo-es-dinero-Prototipo/
 
@@ -77,16 +78,20 @@ Aplicación web que convierte gastos monetarios en tiempo de trabajo según tari
 ### 📊 Dashboard de Compras Online  
 **Python, Streamlit, Pandas, Plotly**
 
-- Procesamiento y análisis de datos  
+Aplicación para análisis de hábitos de compra:
+
+- Procesamiento de datos  
 - Visualización interactiva  
 - Generación automática de insights  
 
 ---
 
-### 🐄 GanadoPro – Sistema de Gestión Ganadera  
+### 🐄 GanadoPro – Sistema Web con Persistencia en la Nube  
 **JavaScript, HTML, CSS, Supabase**
 
-- Registro y consulta de datos  
+Sistema para gestión ganadera:
+
+- Registro estructurado de datos  
 - Estadísticas dinámicas  
 - Persistencia en base de datos en la nube  
 - Arquitectura modular  
@@ -97,31 +102,40 @@ Aplicación web que convierte gastos monetarios en tiempo de trabajo según tari
 
 ## 🎓 Formación Técnica Aplicada
 
-### Procesamiento de Imágenes Médicas con Deep Learning
-- Implementación académica de modelos CNN para clasificación  
-- Preprocesamiento y evaluación de modelos  
+### Procesamiento de Imágenes Médicas con Deep Learning  
+Curso certificado por K-lab Costa Rica – ITCR & Myongji College  
 
-### Fundamentos de Servicios Web – Mini Red Social
+- Implementación académica de modelos CNN  
+- Preprocesamiento y evaluación con métricas de clasificación  
+
+### Fundamentos de Servicios Web  
 - Diseño e implementación académica de API REST  
 - Endpoints GET, POST, PUT, DELETE  
-- Aplicación de buenas prácticas backend y control de versiones con Git  
+- Buenas prácticas de arquitectura backend  
 
 ---
 
 ## 🌍 Experiencia Complementaria
 
 ### Voluntario Internacional – FISU (2024)
-- Coordinación de eventos deportivos universitarios internacionales  
-- Trabajo en equipo multicultural bajo plazos ajustados  
-- Desarrollo de habilidades de comunicación y organización  
+
+- Coordinación de eventos universitarios internacionales  
+- Trabajo en equipo multicultural  
+- Adaptación a entornos dinámicos bajo presión  
 
 ---
 
 ## 🏆 Competencias Clave
 
-Desarrollo de Software • Desarrollo Backend • APIs RESTful •  
-Análisis de Datos • Deep Learning • Programación Orientada a Objetos •  
-Estructuras de Datos y Algoritmos • Bases de Datos • Control de Versiones (Git)
+Desarrollo de Software  
+Arquitectura Backend  
+Compiladores e Intérpretes  
+Estructuras de Datos y Algoritmos  
+Programación Orientada a Objetos  
+Deep Learning  
+Análisis de Datos  
+Bases de Datos  
+Control de Versiones  
 
 ---
 
@@ -141,4 +155,4 @@ Inglés – A2/B1 (lectura técnica y comunicación básica)
 
 ---
 
-Abierto a oportunidades de práctica profesional y puestos junior en desarrollo de software, backend o áreas relacionadas con inteligencia artificial y análisis de datos.
+Estudiante en formación constante, enfocado en construir sistemas sólidos con fundamentos técnicos fuertes.
