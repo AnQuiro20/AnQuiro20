@@ -1,124 +1,127 @@
 <h1 align="center">Andrés Quirós Rojas</h1>
-<h3 align="center"> Computer Engineering student | Backend Developer | Systems & Concurrency</h3>
+<h3 align="center">Estudiante de Ingeniería en Computación | Desarrollo de Software & IA</h3>
 
 <p align="center">
-  🇨🇷 Costa Rica • Instituto Tecnológico de Costa Rica  
-</p>
-
-<p align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Followers&style=social" />
-  </a>
+  🇨🇷 San Carlos, Costa Rica  
+  🎓 Instituto Tecnológico de Costa Rica (Graduación estimada: 2027)
 </p>
 
 ---
 
-## PROFESSIONAL SUMMARY
+## 👨‍💻 PERFIL PROFESIONAL
 
-Computer Engineering student with strong foundations in backend development, concurrent systems, client-server architectures, and performance optimization.
+Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica, con experiencia en desarrollo de software, análisis de datos e inteligencia artificial.
 
-Experience designing and implementing scalable systems using Rust, Java, and JavaScript. Strong understanding of:
+Formación sólida en:
 
-- Multithreading & Synchronization  
-- Distributed Systems Concepts  
-- RESTful Architectures  
-- Database Management (SQL)  
-- System Design Principles  
-- Clean Code & Software Architecture  
+- Programación Orientada a Objetos  
+- Estructuras de Datos y Algoritmos  
+- Diseño de Software  
+- Bases de Datos  
 
-Actively seeking internship or junior backend/software engineering roles.
+Interesado en prácticas profesionales o posiciones junior donde pueda contribuir a proyectos de impacto y continuar fortaleciendo mis habilidades técnicas.
 
 ---
 
-## TECHNICAL SKILLS
+## 🛠️ HABILIDADES TÉCNICAS
 
-### Programming Languages
-Rust • Java • JavaScript • SQL
+### 💻 Programación
+Python • Java • C++ • JavaScript
 
-### Backend & Systems
-Client-Server Architecture • Concurrency • Thread Management • Synchronization • Performance Optimization • Data Structures • Algorithms
+### 🌐 Desarrollo Web y Backend
+APIs REST • Git/GitHub • HTML • Firebase • Supabase
 
-### Web & Cloud
-HTML • CSS • Firebase • REST APIs
+### 🤖 IA y Análisis de Datos
+Deep Learning • Redes Neuronales Convolucionales (CNN) • Procesamiento de Imágenes • Análisis de Datos
 
-### Tools & Environment
-Git • GitHub • Linux • VS Code • Postman
-
----
-
-## FEATURED PROJECTS
-
-### Event Ticketing System – High-Concurrency Backend
-
-Client-server ticket management system designed with performance and synchronization in mind.
-
-Key Features:
-- Intelligent seat allocation algorithm
-- Multi-client simulation using threads
-- Reservation confirmation workflow
-- Automatic timeout release mechanism
-- Load testing simulation (tester application)
-
-Technologies: Rust, Java, Multithreading, Socket Communication
+### 🧰 Herramientas
+Streamlit • Pandas • Plotly • TensorFlow
 
 ---
 
-### Cloud-Based Task Manager
+## 📌 PROYECTOS DESTACADOS
 
-Full-stack task management application with persistent cloud storage.
+### 📊 Dashboard de Compras Online  
+**Python, Streamlit, Pandas, Plotly**
 
-Key Features:
-- Firebase integration
-- Real-time updates
-- Dynamic calendar system
-- User authentication
-- Clean UI structure
-
-Technologies: JavaScript, Firebase, HTML, CSS
+- Aplicación web para análisis y visualización de hábitos de compra.
+- Métricas dinámicas y gráficos avanzados.
+- Generación automática de insights sobre patrones de consumo.
 
 ---
 
-## GITHUB ANALYTICS
+### 🧠 Clasificación de Imágenes Médicas con CNN  
+**Python, TensorFlow**
+
+- Implementación de red neuronal convolucional para clasificación de imágenes médicas.
+- Preprocesamiento de datos y evaluación con métricas de clasificación.
+- Aplicación práctica de conceptos de Deep Learning.
+
+---
+
+### 🌐 API RESTful – Mini Red Social  
+
+- Diseño e implementación de API REST.
+- Endpoints: GET, POST, PUT, DELETE.
+- Uso de buenas prácticas en arquitectura backend.
+- Control de versiones con Git.
+
+---
+
+### 🐄 GanadoPro – Sistema de Gestión Ganadera  
+**JavaScript, HTML, CSS, Supabase**
+
+- Aplicación web para administración de ganado.
+- Registro, consulta y estadísticas.
+- Lógica modular y persistencia en base de datos en la nube.
+- Demo: https://anquiro20.github.io/FincaQR/
+
+---
+
+## 📊 ESTADÍSTICAS DE GITHUB
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnQuiro20&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnQuiro20&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AnQuiro20&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## CORE COMPETENCIES (ATS KEYWORDS)
+## 🏆 COMPETENCIAS CLAVE (Optimizado para ATS)
 
-Backend Development  
-Software Engineering  
-Concurrent Programming  
-Thread Synchronization  
-Client-Server Systems  
-System Architecture  
-Data Structures & Algorithms  
-Database Management  
-Performance Optimization  
-RESTful APIs  
-Object-Oriented Programming  
-Systems Programming  
-
----
-
-## PROFESSIONAL OBJECTIVE
-
-To contribute to high-performance backend systems while continuously strengthening expertise in scalable architectures, concurrency, and distributed systems.
+Desarrollo de Software  
+Desarrollo Backend  
+APIs RESTful  
+Análisis de Datos  
+Deep Learning  
+Machine Learning  
+Procesamiento de Imágenes  
+Redes Neuronales Convolucionales  
+Programación Orientada a Objetos  
+Estructuras de Datos  
+Algoritmos  
+Bases de Datos  
+Control de Versiones (Git)
 
 ---
 
-## CONTACT
+## 🌎 IDIOMAS
 
-LinkedIn: (add link)  
-Email: (add email)
+Español – Nativo  
+Inglés – A2/B1 (lectura técnica y comunicación básica)
 
 ---
 
-Open to collaboration, internships, and backend engineering opportunities.
+## 📫 CONTACTO
+
+📧 quirosandres230@gmail.com  
+🔗 LinkedIn: linkedin.com/in/andres-quirós-b769a0366  
+🐙 GitHub: github.com/AnQuiro20  
+
+---
+
+Abierto a oportunidades de prácticas profesionales y posiciones junior en desarrollo de software, backend o áreas relacionadas con inteligencia artificial y análisis de datos.
