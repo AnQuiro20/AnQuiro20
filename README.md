@@ -1,78 +1,84 @@
 <h1 align="center">Andrés Quirós Rojas</h1>
-<h3 align="center">Computer Engineering Student | Backend & Systems Enthusiast</h3>
+<h3 align="center">Computer Engineering Student | Backend Developer | Systems & Concurrency</h3>
 
 <p align="center">
-  Costa Rica 🇨🇷 • Instituto Tecnológico de Costa Rica  
+  🇨🇷 Costa Rica • Instituto Tecnológico de Costa Rica  
+</p>
+
+<p align="center">
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Followers&style=social" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## PROFESSIONAL SUMMARY
 
-I am a Computer Engineering student at Instituto Tecnológico de Costa Rica with strong interest in backend development, concurrent systems, and scalable architectures.
+Computer Engineering student with strong foundations in backend development, concurrent systems, client-server architectures, and performance optimization.
 
-I enjoy building structured, efficient, and well-designed systems — especially those involving:
+Experience designing and implementing scalable systems using Rust, Java, and JavaScript. Strong understanding of:
 
-- Concurrency and multithreading
-- Client-server architectures
-- Performance optimization
-- Clean code and system design
+- Multithreading & Synchronization  
+- Distributed Systems Concepts  
+- RESTful Architectures  
+- Database Management (SQL)  
+- System Design Principles  
+- Clean Code & Software Architecture  
 
-Currently seeking internship or junior-level opportunities to gain real-world industry experience.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
-
-### 🌐 Web & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+Actively seeking internship or junior backend/software engineering roles.
 
 ---
 
-## 📌 Featured Projects
+## TECHNICAL SKILLS
 
-### 🎟️ Event Ticketing System (Client-Server)
+### Programming Languages
+Rust • Java • JavaScript • SQL
 
-High-concurrency ticket allocation system developed in Rust & Java.
+### Backend & Systems
+Client-Server Architecture • Concurrency • Thread Management • Synchronization • Performance Optimization • Data Structures • Algorithms
 
-- Smart seat assignment algorithm
-- Multi-client simulation with threads
-- Reservation confirmation flow
-- Automatic release of unconfirmed seats
-- Load testing tester application
+### Web & Cloud
+HTML • CSS • Firebase • REST APIs
 
-Focus: performance, synchronization, and clean architecture.
-
----
-
-### 📅 Task Manager with Cloud Persistence
-
-Web application integrated with Firebase.
-
-- Real-time database
-- Authentication
-- Dynamic calendar interface
-- Clean UI/UX structure
-
-Focus: frontend-backend integration and data consistency.
+### Tools & Environment
+Git • GitHub • Linux • VS Code • Postman
 
 ---
 
-## 📊 GitHub Analytics
+## FEATURED PROJECTS
+
+### Event Ticketing System – High-Concurrency Backend
+
+Client-server ticket management system designed with performance and synchronization in mind.
+
+Key Features:
+- Intelligent seat allocation algorithm
+- Multi-client simulation using threads
+- Reservation confirmation workflow
+- Automatic timeout release mechanism
+- Load testing simulation (tester application)
+
+Technologies: Rust, Java, Multithreading, Socket Communication
+
+---
+
+### Cloud-Based Task Manager
+
+Full-stack task management application with persistent cloud storage.
+
+Key Features:
+- Firebase integration
+- Real-time updates
+- Dynamic calendar system
+- User authentication
+- Clean UI structure
+
+Technologies: JavaScript, Firebase, HTML, CSS
+
+---
+
+## GITHUB ANALYTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
@@ -85,20 +91,34 @@ Focus: frontend-backend integration and data consistency.
 
 ---
 
-## 🎯 Professional Goals
+## CORE COMPETENCIES (ATS KEYWORDS)
 
-- Contribute to scalable backend systems
-- Work with high-performance and concurrent architectures
-- Continue strengthening system design knowledge
-- Gain real-world industry experience
+Backend Development  
+Software Engineering  
+Concurrent Programming  
+Thread Synchronization  
+Client-Server Systems  
+System Architecture  
+Data Structures & Algorithms  
+Database Management  
+Performance Optimization  
+RESTful APIs  
+Object-Oriented Programming  
+Systems Programming  
 
 ---
 
-## 📫 Contact
+## PROFESSIONAL OBJECTIVE
 
-- LinkedIn: (add your link)
-- Email: (add your email)
+To contribute to high-performance backend systems while continuously strengthening expertise in scalable architectures, concurrency, and distributed systems.
 
 ---
 
-⭐ Always open to learning, collaborating, and building meaningful technology.
+## CONTACT
+
+LinkedIn: (add link)  
+Email: (add email)
+
+---
+
+Open to collaboration, internships, and backend engineering opportunities.
