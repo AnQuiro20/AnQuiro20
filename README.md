@@ -6,7 +6,6 @@
 🎓 Instituto Tecnológico de Costa Rica (2023–presente)
 </p>
 
-analiza mi readme de presentacion para github: # Andrés Quirós Rojas  
 ### Estudiante de Ingeniería en Computación | Desarrollo de Software | IA y Sistemas  
 
 🇨🇷 San Carlos, Costa Rica  
