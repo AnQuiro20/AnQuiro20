@@ -1,5 +1,5 @@
 <h1 align="center">Andrés Quirós Rojas</h1>
-<h3 align="center">Computer Engineering Student | Backend Developer | Systems & Concurrency</h3>
+<h3 align="center"> Computer Engineering student | Backend Developer | Systems & Concurrency</h3>
 
 <p align="center">
   🇨🇷 Costa Rica • Instituto Tecnológico de Costa Rica  
