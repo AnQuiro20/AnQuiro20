@@ -6,13 +6,11 @@
 🎓 Instituto Tecnológico de Costa Rica (2023–presente)
 </p>
 
-### Estudiante de Ingeniería en Computación | Desarrollo de Software | IA y Sistemas  
-
-🇨🇷 San Carlos, Costa Rica  
-🎓 Instituto Tecnológico de Costa Rica (2023–2027)  
-
-🌐 [Portafolio Web](https://anquiro20.github.io/Mi_portafolio/) |  
-🔗 [LinkedIn](https://www.linkedin.com/in/andres-quirós-b769a0366) |  
+<p align="center">
+<a href="https://anquiro20.github.io/Mi_portafolio/">🌐 Portafolio</a> •
+<a href="https://www.linkedin.com/in/andres-quirós-b769a0366">LinkedIn</a> •
+<a href="mailto:quirosandres230@gmail.com">📧 Email</a>
+</p>
 
 ---
 
