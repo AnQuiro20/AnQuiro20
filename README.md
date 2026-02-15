@@ -51,24 +51,6 @@ Streamlit • Pandas • Plotly • TensorFlow
 
 ---
 
-### 🧠 Clasificación de Imágenes Médicas con CNN  
-**Python, TensorFlow**
-
-- Implementación de red neuronal convolucional para clasificación de imágenes médicas.
-- Preprocesamiento de datos y evaluación con métricas de clasificación.
-- Aplicación práctica de conceptos de Deep Learning.
-
----
-
-### 🌐 API RESTful – Mini Red Social  
-
-- Diseño e implementación de API REST.
-- Endpoints: GET, POST, PUT, DELETE.
-- Uso de buenas prácticas en arquitectura backend.
-- Control de versiones con Git.
-
----
-
 ### 🐄 GanadoPro – Sistema de Gestión Ganadera  
 **JavaScript, HTML, CSS, Supabase**
 
