@@ -61,6 +61,20 @@ Streamlit • Pandas • Plotly • TensorFlow
 
 ---
 
+## 🎓 FORMACIÓN TÉCNICA APLICADA
+
+### 🧠 Procesamiento de Imágenes Médicas con Deep Learning  
+- Implementación académica de modelos CNN para clasificación.
+- Preprocesamiento y evaluación de datos.
+- Curso certificado por K-lab Costa Rica – ITCR & Myongji College.
+
+### 🌐 Fundamentos de Servicios Web – Mini Red Social  
+- Diseño académico de API REST con endpoints GET, POST, PUT, DELETE.
+- Aplicación de buenas prácticas en arquitectura backend.
+- Control de versiones con Git.
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
