@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Ingeniería en Computación | Desarrollo de Software & IA</h3>
 
 <p align="center">
-  🇨🇷 San Carlos, Costa Rica  
+  San Carlos, Costa Rica  
   🎓 Instituto Tecnológico de Costa Rica (Graduación estimada: 2027)
 </p>
 
@@ -17,7 +17,8 @@ Formación sólida en:
 - Programación Orientada a Objetos  
 - Estructuras de Datos y Algoritmos  
 - Diseño de Software  
-- Bases de Datos  
+- Bases de Datos
+- Backend & Frontend 
 
 Interesado en prácticas profesionales o posiciones junior donde pueda contribuir a proyectos de impacto y continuar fortaleciendo mis habilidades técnicas.
 
@@ -26,7 +27,7 @@ Interesado en prácticas profesionales o posiciones junior donde pueda contribui
 ## 🛠️ HABILIDADES TÉCNICAS
 
 ### 💻 Programación
-Python • Java • C++ • JavaScript
+Python • Java • C++ • JavaScript • C#
 
 ### 🌐 Desarrollo Web y Backend
 APIs REST • Git/GitHub • HTML • Firebase • Supabase
@@ -78,15 +79,14 @@ Streamlit • Pandas • Plotly • TensorFlow
 
 ---
 
-## 📊 ESTADÍSTICAS DE GITHUB
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnQuiro20&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnQuiro20&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnQuiro20&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnQuiro20&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnQuiro20&layout=compact&theme=dark&hide_border=true" height="170"/>
 </p>
 
 ---
