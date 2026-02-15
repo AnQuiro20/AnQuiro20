@@ -78,11 +78,11 @@ Streamlit • Pandas • Plotly • TensorFlow
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnQuiro20&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnQuiro20&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnQuiro20&layout=compact&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnQuiro20&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
