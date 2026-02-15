@@ -135,13 +135,7 @@ Sistema web para administración de ganado:
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnQuiro20&show_icons=true&theme=dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnQuiro20&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
+![Resumen](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnQuiro20&theme=github_dark)
 
 ---
 
