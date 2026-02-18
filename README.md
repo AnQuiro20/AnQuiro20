@@ -99,6 +99,23 @@ Aplicación web que convierte gastos monetarios en tiempo de trabajo según tari
 
 ---
 
+### 📊 Students Performance – Dashboard de Machine Learning  
+**Python, Scikit-learn, SHAP, Streamlit, Plotly, ReportLab**
+
+Dashboard End-to-End de Machine Learning enfocado en la predicción del rendimiento en matemáticas utilizando pipelines estructurados y técnicas de IA explicable.
+
+- Implementación de pipeline con ColumnTransformer y OneHotEncoder  
+- Comparación de modelos (Regresión Lineal vs Random Forest)  
+- Validación cruzada (5-Fold Cross Validation)  
+- Evaluación con métricas: R², MAE y RMSE  
+- Análisis de importancia de variables + SHAP para interpretabilidad  
+- Dashboard interactivo desarrollado con Streamlit  
+- Generación automática de reporte en PDF  
+
+🔗 Repositorio: https://github.com/anquiro20/students-performance-ml-dashboard
+
+---
+
 ## 🎓 Formación Técnica Aplicada
 
 ### Procesamiento de Imágenes Médicas con Deep Learning
