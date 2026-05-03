@@ -50,7 +50,6 @@ Currently seeking internship or junior opportunities in backend or software engi
 ✔ End-to-end working system  
 ✔ Strong focus on compilers and language design fundamentals  
 
-> ⚠️ *Tip: Add screenshots or a demo GIF here to increase impact*
 
 ---
 
