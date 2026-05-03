@@ -37,10 +37,6 @@ Currently seeking internship or junior opportunities in backend or software engi
 
 ---
 
-## 📌 Featured Projects
-
----
-
 ### 🧠 MonkeyCompiler – Educational Compiler
 
 **C# (.NET), ANTLR4, Virtual Machine**
