@@ -1,164 +1,160 @@
 <h1 align="center">Andrés Quirós Rojas</h1>
-<h3 align="center">Estudiante de Ingeniería en Computación | Desarrollo de Software | IA y Sistemas</h3>
+<h3 align="center">Backend Developer | Software Engineering | Machine Learning</h3>
 
 <p align="center">
-🇨🇷 San Carlos, Costa Rica <br>
-🎓 Instituto Tecnológico de Costa Rica (2023–presente)
+🇨🇷 Costa Rica <br>
+🎓 Computer Engineering Student – Tecnológico de Costa Rica
 </p>
 
 <p align="center">
-<a href="https://anquiro20.github.io/Mi_portafolio/">🌐 Portafolio</a> •
+<a href="https://anquiro20.github.io/Mi_portafolio/">🌐 Portfolio</a> •
 <a href="https://www.linkedin.com/in/andres-quirós-b769a0366">LinkedIn</a> •
 <a href="mailto:quirosandres230@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-## 👨‍💻 Perfil Profesional
+## 👨‍💻 Profile
 
-Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica con enfoque en desarrollo de software, análisis de datos e inteligencia artificial.
+Backend-oriented software engineering student with hands-on experience building complete systems, including compilers, REST APIs, web applications, and machine learning pipelines.
 
-Cuento con una base sólida en programación, estructuras de datos, algoritmos y diseño de software, complementada con experiencia académica aplicada en desarrollo web, APIs REST y modelos de Deep Learning.
+Strong foundation in data structures, algorithms, and system design, with practical experience developing scalable and modular applications using Python and JavaScript.
 
-Me caracterizo por un enfoque analítico, aprendizaje continuo y capacidad para trabajar en equipos multidisciplinarios. Interesado en oportunidades de práctica profesional o puestos junior donde pueda aportar valor mientras continúo desarrollándome como ingeniero.
+Focused on backend development, clean architecture, and building reliable software systems.
 
----
-
-## 🛠️ Habilidades Técnicas
-
-### 💻 Lenguajes de Programación
-Python • Java • C++ • JavaScript • C#
-
-### 🌐 Desarrollo Web y Backend
-APIs REST • Git/GitHub • HTML • Firebase • Supabase
-
-### 🤖 Inteligencia Artificial y Datos
-Deep Learning • Redes Neuronales Convolucionales (CNN) • Procesamiento de Imágenes • Análisis de Datos
-
-### 🧰 Herramientas
-Streamlit • Pandas • Plotly • TensorFlow • ANTLR4 • .NET
+Currently seeking internship or junior opportunities in backend or software engineering.
 
 ---
 
-## 📌 Proyectos Personales Destacados
+## 🛠️ Technical Skills
 
-### 🐒 MonkeyCompiler – Compilador Educativo  
-**C# (.NET 8), ANTLR4, Máquina Virtual Propia, Python (Tkinter)**  
-Curso: Compiladores e Intérpretes – TEC (II Semestre 2025)
-
-Compilador completo para el lenguaje educativo Monkey, implementando:
-
-- Análisis léxico y sintáctico con ANTLR4  
-- Construcción de AST mediante Visitor Pattern  
-- Análisis semántico con tabla de símbolos jerárquica  
-- Generación de código intermedio (IR) tipo stack machine  
-- Máquina virtual propia para ejecución  
-- Backend alternativo mediante generación dinámica de CIL  
-- Interfaz gráfica desarrollada en Python (Tkinter)
-
-✔ Proyecto finalizado y funcional  
-✔ Arquitectura modular  
-✔ Enfoque en fundamentos de compiladores y diseño de lenguajes  
+**Languages:** Python, Java, C++, JavaScript, C#  
+**Backend & Web:** REST APIs, JavaScript (ES6+), HTML5, CSS3, Web Applications  
+**Systems & CS Fundamentals:** Data Structures, Algorithms, Software Design  
+**Machine Learning:** Scikit-learn, TensorFlow, Data Analysis, Model Evaluation  
+**Tools:** Git, Streamlit, Pandas, Plotly, ANTLR4, .NET  
+**Databases:** Supabase, Firebase  
 
 ---
 
-### ⏳ Time is Money – Conversión de Gastos a Tiempo de Trabajo  
-**HTML5, CSS3, JavaScript (ES6+), Canvas API, LocalStorage**
+## 📌 Featured Projects
 
-Aplicación web que convierte gastos monetarios en tiempo de trabajo según tarifa horaria.
+---
 
-- Conversión dinámica Dinero ↔ Tiempo (considerando impuestos)  
-- Metas mensuales personalizables  
-- Visualización gráfica con Canvas API  
-- Persistencia local mediante LocalStorage  
-- Exportación e importación de datos en JSON  
-- Diseño responsivo (móvil y escritorio)  
+### 🧠 MonkeyCompiler – Educational Compiler
+
+**C# (.NET), ANTLR4, Virtual Machine**
+
+- Built a full compiler from scratch including lexical, syntactic, and semantic analysis  
+- Implemented AST using Visitor Pattern and hierarchical symbol tables  
+- Designed a custom stack-based virtual machine for execution  
+- Generated intermediate representation (IR) and alternative CIL backend  
+- Applied modular architecture with clear separation of compiler phases  
+
+✔ End-to-end working system  
+✔ Strong focus on compilers and language design fundamentals  
+
+> ⚠️ *Tip: Add screenshots or a demo GIF here to increase impact*
+
+---
+
+### ⏳ Time is Money – Expense to Work-Time Converter
+
+**JavaScript, HTML5, CSS3, Canvas API, LocalStorage**
+
+- Built a web application to convert financial expenses into equivalent work time based on hourly income  
+- Implemented dynamic calculations and real-time visualization using Canvas API  
+- Designed responsive UI for mobile and desktop  
+- Managed local data persistence with LocalStorage  
+- Enabled data export and import using JSON  
 
 🔗 Demo: https://anquiro20.github.io/El-tiempo-es-dinero-Prototipo/
 
 ---
 
-### 📊 Dashboard de Compras Online  
+### 📊 Online Shopping Dashboard
+
 **Python, Streamlit, Pandas, Plotly**
 
-- Procesamiento y análisis de datos  
-- Visualización interactiva  
-- Generación automática de insights  
+- Processed and analyzed transactional data  
+- Built interactive visualizations for insights generation  
+- Developed a data-driven dashboard for exploratory analysis  
 
 ---
 
-### 🐄 GanadoPro – Sistema de Gestión Ganadera  
+### 🐄 GanadoPro – Livestock Management System
+
 **JavaScript, HTML, CSS, Supabase**
 
-- Registro y consulta de datos  
-- Estadísticas dinámicas  
-- Persistencia en base de datos en la nube  
-- Arquitectura modular  
+- Built a web-based system for livestock data management  
+- Implemented dynamic statistics and real-time data interaction  
+- Integrated cloud database using Supabase  
+- Designed modular frontend architecture  
 
 🔗 Demo: https://anquiro20.github.io/FincaQR/
 
 ---
 
-### 📊 Students Performance – Dashboard de Machine Learning  
+### 📊 Students Performance – Machine Learning Dashboard
+
 **Python, Scikit-learn, SHAP, Streamlit, Plotly, ReportLab**
 
-Dashboard End-to-End de Machine Learning enfocado en la predicción del rendimiento en matemáticas utilizando pipelines estructurados y técnicas de IA explicable.
+- Built an end-to-end machine learning pipeline for predicting student performance  
+- Implemented preprocessing using ColumnTransformer and OneHotEncoder  
+- Compared models (Linear Regression vs Random Forest)  
+- Applied 5-fold cross-validation  
+- Evaluated models using R², MAE, and RMSE  
+- Integrated SHAP for model interpretability  
+- Developed an interactive dashboard with Streamlit  
+- Generated automated PDF reports  
 
-- Implementación de pipeline con ColumnTransformer y OneHotEncoder  
-- Comparación de modelos (Regresión Lineal vs Random Forest)  
-- Validación cruzada (5-Fold Cross Validation)  
-- Evaluación con métricas: R², MAE y RMSE  
-- Análisis de importancia de variables + SHAP para interpretabilidad  
-- Dashboard interactivo desarrollado con Streamlit  
-- Generación automática de reporte en PDF  
-
-🔗 Repositorio: https://github.com/anquiro20/students-performance-ml-dashboard
-
----
-
-## 🎓 Formación Técnica Aplicada
-
-### Procesamiento de Imágenes Médicas con Deep Learning
-- Implementación académica de modelos CNN para clasificación  
-- Preprocesamiento y evaluación de modelos  
-
-### Fundamentos de Servicios Web – Mini Red Social
-- Diseño e implementación académica de API REST  
-- Endpoints GET, POST, PUT, DELETE  
-- Aplicación de buenas prácticas backend y control de versiones con Git  
+🔗 Repository: https://github.com/anquiro20/students-performance-ml-dashboard
 
 ---
 
-## 🌍 Experiencia Complementaria
+## 🎓 Applied Technical Experience
 
-### Voluntario Internacional – FISU (2024)
-- Coordinación de eventos deportivos universitarios internacionales  
-- Trabajo en equipo multicultural bajo plazos ajustados  
-- Desarrollo de habilidades de comunicación y organización  
+### Medical Image Processing with Deep Learning
+- Implemented CNN models for classification tasks  
+- Performed preprocessing and evaluation of image datasets  
 
----
-
-## 🏆 Competencias Clave
-
-Desarrollo de Software • Desarrollo Backend • APIs RESTful •  
-Análisis de Datos • Deep Learning • Programación Orientada a Objetos •  
-Estructuras de Datos y Algoritmos • Bases de Datos • Control de Versiones (Git)
+### Web Services Fundamentals – Mini Social Network
+- Designed and implemented REST API  
+- Developed endpoints: GET, POST, PUT, DELETE  
+- Applied backend best practices and version control with Git  
 
 ---
 
-## 🌎 Idiomas
+## 🌍 Additional Experience
 
-Español – Nativo  
-Inglés – A2/B1 (lectura técnica y comunicación básica)
+### International Volunteer – FISU (2024)
+- Coordinated international university sports events  
+- Worked in multicultural teams under time constraints  
+- Strengthened communication and organizational skills  
 
 ---
 
-## 📫 Contacto
+## 🏆 Core Competencies
 
-🌐 Portafolio: https://anquiro20.github.io/Mi_portafolio/  
-📧 Correo: quirosandres230@gmail.com  
+Software Engineering • Backend Development • REST APIs •  
+Data Analysis • Machine Learning • Object-Oriented Programming •  
+Data Structures & Algorithms • Databases • Version Control (Git)
+
+---
+
+## 🌎 Languages
+
+Spanish – Native  
+English – A2/B1 (technical reading and basic communication)
+
+---
+
+## 📫 Contact
+
+🌐 Portfolio: https://anquiro20.github.io/Mi_portafolio/  
+📧 Email: quirosandres230@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/andres-quirós-b769a0366  
 
 ---
 
-Abierto a oportunidades de práctica profesional y puestos junior en desarrollo de software, backend o áreas relacionadas con inteligencia artificial y análisis de datos.
+🚀 Open to internship and junior opportunities in backend development, software engineering, or machine learning.
