@@ -1,38 +1,38 @@
 <div align="center">
 
-# ¡Hola! Soy Andrés Quirós Rojas 👋
+# Hi, I'm Andrés Quirós Rojas 👋
 
-### Estudiante de Ingeniería en Computación · Backend · Software Engineering · Machine Learning
+### Computer Engineering Student · Backend Development · Software Engineering · Machine Learning
 
-🇨🇷 Costa Rica · 🎓 Tecnológico de Costa Rica  
-🚀 **Disponible para práctica profesional**
+🇨🇷 Based in Costa Rica · 🎓 Tecnológico de Costa Rica  
+🚀 **Open to software engineering internships**
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anquiro20.github.io/Mi_portafolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-quirós-b769a0366)
-[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quirosandres230@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anquiro20.github.io/Mi_portafolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-quirós-b769a0366)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quirosandres230@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mí
+## About Me
 
-Soy estudiante de Ingeniería en Computación con interés en construir software útil, mantenible y bien estructurado. He desarrollado proyectos completos que abarcan **compiladores, aplicaciones web, análisis de datos y pipelines de machine learning**.
+I am a Computer Engineering student who enjoys turning complex problems into useful, maintainable software. My projects span **compiler construction, web applications, data analysis, embedded systems, and end-to-end machine learning pipelines**.
 
-Me interesa especialmente el desarrollo backend, la arquitectura de software y la resolución de problemas. Actualmente busco una oportunidad de práctica donde pueda aportar, aprender de un equipo profesional y seguir creciendo como ingeniero de software.
+I am especially interested in backend development, software architecture, and problem-solving. I am currently looking for an internship where I can contribute to real products, learn from an experienced engineering team, and continue growing as a software engineer.
 
-## Proyectos destacados
+## Featured Projects
 
-| Proyecto | Qué construí | Tecnologías |
+| Project | What I Built | Tech Stack |
 |---|---|---|
-| [🐒 **MonkeyCompiler**](https://github.com/AnQuiro20/MonkeyCompiler) | Compilador educativo con análisis léxico, sintáctico y semántico, IR, máquina virtual propia y backend CIL. | C#, .NET, ANTLR4, Python |
-| [📊 **Students Performance ML**](https://github.com/AnQuiro20/students-performance-ml-dashboard) | Pipeline end-to-end de ML con validación cruzada, comparación de modelos, SHAP, dashboard y reportes PDF. | Python, Scikit-learn, SHAP, Streamlit |
-| [🐄 **FincaQR / GanadoPro**](https://github.com/AnQuiro20/FincaQR) | Sistema web para gestionar ganado, vacunas, gestación, partos y estadísticas con persistencia en la nube. | JavaScript, HTML, CSS, Supabase |
-| [⏳ **Time is Money**](https://github.com/AnQuiro20/Time-is-Money-Prototipo) | Aplicación que convierte gastos en tiempo de trabajo e incluye metas, gráficos y respaldo de datos. [Ver demo](https://anquiro20.github.io/Time-is-Money-Prototipo/). | JavaScript, Canvas API, LocalStorage |
-| [💻 **Portafolio personal**](https://github.com/AnQuiro20/Mi_portafolio) | Sitio responsive con estética de terminal para presentar proyectos, habilidades y certificaciones. [Ver sitio](https://anquiro20.github.io/Mi_portafolio/). | HTML, CSS, JavaScript |
-| [🔌 **Embedded Projects**](https://github.com/AnQuiro20/embedded-projects) | Colección de proyectos con Arduino, ESP32 y nRF5340. | C/C++, Arduino, ESP32, nRF5340 |
+| [🐒 **MonkeyCompiler**](https://github.com/AnQuiro20/MonkeyCompiler) | An educational compiler with lexical, syntax, and semantic analysis; intermediate representation; a custom virtual machine; and a CIL backend. | C#, .NET, ANTLR4, Python |
+| [📊 **Student Performance ML**](https://github.com/AnQuiro20/students-performance-ml-dashboard) | An end-to-end ML pipeline with cross-validation, model comparison, SHAP explanations, an interactive dashboard, and PDF reports. | Python, Scikit-learn, SHAP, Streamlit |
+| [🐄 **FincaQR / GanadoPro**](https://github.com/AnQuiro20/FincaQR) | A livestock management system for animals, vaccinations, pregnancies, births, and operational statistics with cloud persistence. | JavaScript, HTML, CSS, Supabase |
+| [⏳ **Time is Money**](https://github.com/AnQuiro20/Time-is-Money-Prototipo) | A web app that converts expenses into work time, with budgets, visualizations, local persistence, and data backups. [Live demo](https://anquiro20.github.io/Time-is-Money-Prototipo/). | JavaScript, Canvas API, LocalStorage |
+| [💻 **Developer Portfolio**](https://github.com/AnQuiro20/Mi_portafolio) | A responsive, terminal-inspired website showcasing my projects, technical skills, and certifications. [Live site](https://anquiro20.github.io/Mi_portafolio/). | HTML, CSS, JavaScript |
+| [🔌 **Embedded Projects**](https://github.com/AnQuiro20/embedded-projects) | A collection of hands-on projects built with Arduino, ESP32, and nRF5340 microcontrollers. | C/C++, Arduino, ESP32, nRF5340 |
 
-## Tecnologías
+## Technical Toolkit
 
 <div align="center">
 
@@ -52,29 +52,29 @@ Me interesa especialmente el desarrollo backend, la arquitectura de software y l
 
 </div>
 
-## Lo que puedo aportar
+## What I Bring to a Team
 
-- Fundamentos de estructuras de datos, algoritmos y programación orientada a objetos.
-- Desarrollo de aplicaciones web y servicios REST.
-- Diseño modular, control de versiones y documentación técnica.
-- Análisis de datos, evaluación de modelos e inteligencia artificial explicable.
-- Curiosidad, autonomía y disposición para aprender en equipo.
+- Strong foundations in data structures, algorithms, and object-oriented programming.
+- Experience building web applications and REST services.
+- A focus on modular design, version control, and clear technical documentation.
+- Hands-on work with data analysis, model evaluation, and explainable AI.
+- Curiosity, ownership, and a genuine willingness to learn from feedback.
 
-## Experiencia adicional
+## Beyond the Code
 
-- Desarrollo de modelos CNN para clasificación de imágenes médicas.
-- Construcción de una API REST para una mini red social.
-- Voluntariado internacional en FISU 2024, colaborando en equipos multiculturales.
-- Español nativo e inglés A2/B1, con lectura técnica.
+- Built CNN models for medical image classification.
+- Developed a REST API for a small social networking application.
+- Collaborated in multicultural teams as an international volunteer at FISU 2024.
+- **Languages:** Spanish — Native · English — A2/B1 with technical reading proficiency.
 
 ---
 
 <div align="center">
 
-### ¿Buscas una persona practicante con iniciativa y bases técnicas sólidas?
+### Looking for an intern who enjoys learning and building?
 
-Estoy abierto a oportunidades en **desarrollo backend, ingeniería de software y machine learning**.
+I am open to opportunities in **backend development, software engineering, and machine learning**.
 
-[Portafolio](https://anquiro20.github.io/Mi_portafolio/) · [LinkedIn](https://www.linkedin.com/in/andres-quirós-b769a0366) · [Correo](mailto:quirosandres230@gmail.com)
+[Portfolio](https://anquiro20.github.io/Mi_portafolio/) · [LinkedIn](https://www.linkedin.com/in/andres-quirós-b769a0366) · [Email](mailto:quirosandres230@gmail.com)
 
 </div>
